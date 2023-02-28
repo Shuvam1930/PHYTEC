@@ -1,0 +1,12 @@
+#include<stdio.h>
+int add (int x, int y)
+{
+       	return (x+y);
+	
+}
+
+
+int main()
+{
+	printf("Addition of two numbers are: %d\n",add(10,10));
+}

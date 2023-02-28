@@ -1,0 +1,10 @@
+#include<stdio.h>
+float p,b,h
+float main()
+{
+	printf("sin of two number is :%d\n",sin(p,b));
+	printf("cos of two number is:%d\n",cos(b,h));
+	printf("tan of two number is;%d\n",tan(p,b));
+	return 0;
+
+}
